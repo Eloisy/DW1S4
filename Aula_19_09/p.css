@@ -1,0 +1,27 @@
+body{
+    background-color: lightblue;
+    background-image: url("furão2.png");
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    background-size: 150px;
+}
+.p1{
+    color: white;
+  }
+p{
+    text-align: justify;
+}
+.d2{
+   margin: 20px;
+   background-color: lightcoral;
+}
+.d1{
+   margin: 20px;
+   background-color: lightgreen;
+}
+.d3{
+    margin: 20px;
+    background-color:gray;
+    background-image: url("furão2.png");
+    background-size: 70px;
+ }

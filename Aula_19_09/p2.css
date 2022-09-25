@@ -1,0 +1,41 @@
+table,th,td
+{
+    border: 1px solid black;
+}
+.td1{
+    background-color: red;
+}
+.td2{
+    background-color:#b30000;
+}
+.td3{
+    background-color: #660000;
+}
+.td4{
+    background-color: #00ff00;
+}
+.td5{
+    background-color: #99ff99;
+}
+.td6{
+    background-color: #004d00;
+}
+.td7{
+    background-color: blue;
+}
+.td8{
+    background-color: #ccccff;
+}
+.td9{
+    background-color: #000066;
+}
+body{
+    background-image: url("IF.png");
+    background-repeat: no-repeat;
+    background-position: center right;
+    background-size: 150px;
+}
+.paleta{
+    background-size: 100px;
+    background-image: url('paleta.png');
+}
