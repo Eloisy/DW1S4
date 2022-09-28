@@ -1,0 +1,32 @@
+img {
+    opacity: 0.5;
+    width: 400px;
+  }
+  
+  img:hover {
+    opacity: 1.0;
+  }
+
+  div{
+    border: 5px solid rgb(59, 4, 75);
+    padding: 25px;
+    margin: 10px;
+    color: white;
+    display: inline;
+    background-color: rgb(123, 72, 204);
+  }
+  .op1{
+    opacity: 1.0;
+  }
+  .op2{
+    opacity: 0.8;
+  }
+  .op3{
+    opacity: 0.6;
+  }
+  .op4{
+    opacity: 0.4;
+  }
+  .op5{
+    opacity: 0.2;
+  }

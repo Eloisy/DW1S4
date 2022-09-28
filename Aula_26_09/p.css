@@ -1,0 +1,17 @@
+.img1{
+    width: 200px;
+    height: 200px;
+    float: right;
+}
+.img2{
+    width: 200px;
+    height: 200px;
+    float: left;  
+}
+.d{
+    border: 3px dashed rgb(11, 141, 141);
+}
+p{
+   text-align: justify;
+   text-indent: 10px;
+}
